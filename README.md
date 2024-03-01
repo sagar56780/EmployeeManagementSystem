@@ -1,10 +1,10 @@
 # EmployeeManagementSystem
-This is an employee management system based on Java, Servlet, and JSP technologies i used MVC model to create this project.
+This is an employee management system based on Java, Servlet, and JSP technologies i used the MVC model to create this project.
 Front-End - simple by using JSP 
 Database-PostgreSQL
                 note:- these are the important things that you have to follow carefully to connect this project with your database 
                 1. need to install Postgresql 
-                2. create a database with the name:-"company"
+                2. create a database with the name:-"Company"
                 3. create a table with the name:- "employee"
                 4. create columns 
                                 1st column name ="id" <integer>
